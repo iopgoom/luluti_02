@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/luluti_02/static/css/main.704d03d3.css",
+    "main.js": "/luluti_02/static/js/main.24772b2a.js",
+    "static/js/453.476fc43f.chunk.js": "/luluti_02/static/js/453.476fc43f.chunk.js",
+    "static/media/PretendardVariable.woff2": "/luluti_02/static/media/PretendardVariable.2bc582461caf4e05b51d.woff2",
+    "static/media/slick.svg": "/luluti_02/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/luluti_02/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/luluti_02/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/luluti_02/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/luluti_02/index.html",
+    "main.704d03d3.css.map": "/luluti_02/static/css/main.704d03d3.css.map",
+    "main.24772b2a.js.map": "/luluti_02/static/js/main.24772b2a.js.map",
+    "453.476fc43f.chunk.js.map": "/luluti_02/static/js/453.476fc43f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704d03d3.css",
+    "static/js/main.24772b2a.js"
+  ]
+}
